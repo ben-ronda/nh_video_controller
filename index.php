@@ -7,7 +7,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>TLC South Control</title>
+    <title>TLC South Control Interface</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
   </head>
